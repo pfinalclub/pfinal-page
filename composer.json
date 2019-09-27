@@ -1,0 +1,41 @@
+{
+  "name": "pfinal/pfinal-page",
+  "description": "Page分页组件可以产生基于当前页面的智能「范围」链接，",
+  "authors": [
+    {
+      "name": "南丞",
+      "email": "Lampxiezi@163.com",
+      "homepage": "http://friday-go.cc/"
+    }
+  ],
+  "homepage": "https://github.com/pfinalclub/pfinal-page",
+  "license": "MIT",
+  "keywords": [
+    "pfinal",
+    "南丞",
+    "Q哥",
+    "php-page",
+    "page",
+    "pfinal-page"
+  ],
+  "autoload": {
+    "psr-4": {
+      "pf\\page\\": "src/"
+    },
+    "files": [
+      "src/helper.php"
+    ]
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "tests\\": "tests"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.2"
+  },
+  "require": {
+    "nancheng/pfinal-request": "dev-master"
+  },
+  "minimum-stability": "dev"
+}
