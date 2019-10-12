@@ -37,5 +37,4 @@
   "require": {
     "nancheng/pfinal-request": "*"
   },
-  "minimum-stability": "dev"
 }
