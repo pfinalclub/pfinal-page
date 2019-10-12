@@ -4,6 +4,6 @@
 #### 使用
 
 ```shell
-composer require houdunwang/page
+composer require nancheng/pfinal-page
 ```
 
