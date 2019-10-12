@@ -36,5 +36,5 @@
   },
   "require": {
     "nancheng/pfinal-request": "dev-master"
-  },
+  }
 }
